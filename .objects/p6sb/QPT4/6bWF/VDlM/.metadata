@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Close",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "VDlMaI-E8EWF1N4WX8Il-Q",
+  "Reference": "hNiPyQ8eWUW0CP8otOgP-A/VDlMaI-E8EWF1N4WX8Il-Q",
+  "ParentRef": "hNiPyQ8eWUW0CP8otOgP-A/6bWFMP9QtUqyqjh-6c3x_w",
+  "Created": "2024-01-02T08:01:13.5771087Z",
+  "Updated": "2024-01-02T08:01:13.5771087Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
